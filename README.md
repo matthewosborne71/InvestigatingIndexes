@@ -1,6 +1,6 @@
 # Investigating Indexes
 
-This repository contains data and code for my blog post, <i>Investigating Index Funds</i>.
+This repository contains data and code for my blog post, <a href="http://matthew-osborne.com/mtodata/Posts/index-investigation.html">Investigating Index Funds</a>.
 
 All index data was obtained from Yahoo! Finance and can be found in the Data Folder.
 
